@@ -5,7 +5,7 @@ import Zadanie_2
 app = Flask(__name__)
 
 #korzystając z poniżej napisanej funkcji, która będzie uruchamiała się za każdym razem gdy wejdziemy na adres naszego
-# lokalnego serwera, połącz kod z zadania pierwszego oraz 2 tak by przekazać do funkcji render_template a w rezultacie
+# lokalnego serwera, połącz kod z zadania pierwszego oraz 2 tak by przekazać do funkcji render_template jakieś produkty a w rezultacie
 # do main.html po czym za pomocą konstrukcji {{}} wyświetl te produkty
 # plik main.html umieść w folderze templates
 
